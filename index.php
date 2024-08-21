@@ -7,7 +7,7 @@
 
 </head>
 <body <?php body_class(); ?>>
-  <h1>BM Cool Portfolio</h1>
+  <h1>AY Cool Portfolio</h1>
   <div id="page" class="site">
     <header>
       <section class="top-bar">
